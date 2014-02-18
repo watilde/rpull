@@ -1,0 +1,38 @@
+{
+  "name": "sync-master",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "sync-master": "./bin/sync-master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:watilde/sync-master.git"
+  },
+  "homepage": "http://watilde.github.io/sync-master/",
+  "keywords": [
+    "git",
+    "sync"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "author": {
+    "name": "Daijiro Wachi",
+    "email": "daijiro.wachi@gmail.com",
+    "url": "https://watilde.github.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/sync-master/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-nodeunit": "~0.2.2"
+  },
+  "dependencies": {
+    "async": "~0.2.10"
+  }
+}

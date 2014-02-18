@@ -1,5 +1,5 @@
 ```
-$ sync-master /path/to/git
+$ rpull /path/to/git
 
 1 / 5
 Path: /path/to/git/repository_a

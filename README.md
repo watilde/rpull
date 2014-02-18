@@ -24,7 +24,9 @@ Fast-forward
  README.md                        |  164 ++-
  examples/index.html              |    2 -
  
-5 / 20
+5 / 5
 Path: /path/to/git/repository_e
 Already up-to-date.
+
+Done
  ```

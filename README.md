@@ -1,3 +1,6 @@
+# Rpull
+Recursive git pull with node
+
 ```
 $ rpull /path/to/git
 

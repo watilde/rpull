@@ -33,6 +33,7 @@
     "grunt-contrib-nodeunit": "~0.2.2"
   },
   "dependencies": {
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "inquirer": "^0.4.1"
   }
 }

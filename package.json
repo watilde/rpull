@@ -1,6 +1,6 @@
 {
   "name": "rpull",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Recursive git pull with node",
   "bin": {
     "rpull": "./bin/rpull"
@@ -30,7 +30,8 @@
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-contrib-nodeunit": "~0.2.2"
+    "grunt-contrib-nodeunit": "~0.2.2",
+    "which": "^1.0.5"
   },
   "dependencies": {
     "async": "~0.2.10",

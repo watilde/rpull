@@ -30,11 +30,11 @@
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-contrib-nodeunit": "~0.2.2",
-    "which": "^1.0.5"
+    "grunt-contrib-nodeunit": "~0.2.2"
   },
   "dependencies": {
     "async": "~0.2.10",
-    "inquirer": "^0.4.1"
+    "inquirer": "^0.4.1",
+    "which": "^1.0.5"
   }
 }
